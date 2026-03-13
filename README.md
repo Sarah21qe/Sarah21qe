@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Olá! Eu sou estudante de Desenvolvimento de Sistemas
 
-<!--
-**Sarah21qe/Sarah21qe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante do **3º ano do Ensino Médio**  
+💻 Estudando **Desenvolvimento de Sistemas**  
+📚 Atualmente aprendendo **Python, HTML, CSS e JavaScript**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que estou aprendendo
+
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
+- 🐍 Python
+
+---
+
+## 📖 Sobre mim
+
+Sou estudante e estou iniciando minha jornada na área de tecnologia.  
+Gosto de aprender programação e desenvolver projetos para melhorar minhas habilidades.
+
+🎯 Objetivo: crescer na área de tecnologia e desenvolvimento de software.
+# 📊 Estatísticas do GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contato
+
+📧 Email: sarahruth1562@gmail.com
