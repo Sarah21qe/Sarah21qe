@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou estudante de Desenvolvimento de Sistemas
 
 🎓 Estudante do **3º ano do Ensino Médio**  
-💻 Estudando **Desenvolvimento de Sistemas**  
+💻 Estudando **Desenvolvimento de Sistemas** 
 📚 Atualmente aprendendo **Python, HTML, CSS e JavaScript**
 
 ---
