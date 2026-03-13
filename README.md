@@ -23,9 +23,9 @@ Gosto de aprender programação e desenvolver projetos para melhorar minhas habi
 🎯 Objetivo: crescer na área de tecnologia e desenvolvimento de software.
 # 📊 Estatísticas do GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarah21qeO&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarah21qe&layout=compact&theme=tokyonight)
 
 ---
 
