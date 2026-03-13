@@ -39,7 +39,7 @@ Gosto de aprender programação e desenvolver projetos para melhorar minhas habi
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarah21qeO\&show_icons=true\&theme=tokyonight\&include_all_commits=true\&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarah21qeO\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarah21qeO\&layout=compact\&theme=tokyonight)
 
 ---
 
